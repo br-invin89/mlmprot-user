@@ -1,0 +1,591 @@
+{
+  "qualified_2x2": 
+  {
+    "is_bonusable": false,
+    "bonus_amount": 100,
+    "qualified_members": [
+      {
+        "uuid": "1001",
+        "username": "a1",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(1).jpg",
+        "first_name": "Krystina",
+        "last_name": "Pfeffer",
+        "qualified_members": [
+          {
+            "uuid": "1002",
+            "username": "a2",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(2).jpg",
+            "first_name": "Jakayla",
+            "last_name": "Dickens"
+          },
+          {
+            "uuid": "1003",
+            "username": "a3",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(3).jpg",
+            "first_name": "Aletha",
+            "last_name": "Cremin"
+          },
+          {
+            "uuid": "1004",
+            "username": "a4",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(4).jpg",
+            "first_name": "Lisette",
+            "last_name": "Padberg"
+          },
+          {
+            "uuid": "1005",
+            "username": "a5",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(5).jpg",
+            "first_name": "Name",
+            "last_name": "Harber"
+          },
+          {
+            "uuid": "1006",
+            "username": "a6",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(6).jpg",
+            "first_name": "Cordia",
+            "last_name": "Schaefer"
+          }
+        ]
+      },
+      {
+        "uuid": "1011",
+        "username": "a11",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(11).jpg",
+        "first_name": "Ashleigh",
+        "last_name": "Gottlieb",
+        "qualified_members": [
+          {
+            "uuid": "1012",
+            "username": "a12",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(12).jpg",
+            "first_name": "Lorenzo",
+            "last_name": "Rowe"
+          },
+          {
+            "uuid": "1013",
+            "username": "a13",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(13).jpg",
+            "first_name": "Arvid",
+            "last_name": "Hagenes"
+          },
+          {
+            "uuid": "1014",
+            "username": "a14",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(14).jpg",
+            "first_name": "Percival",
+            "last_name": "Simonis"
+          },
+          {
+            "uuid": "1015",
+            "username": "a15",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(15).jpg",
+            "first_name": "Dalton",
+            "last_name": "Tillman"
+          }
+        ]
+      },
+      {
+        "uuid": "1021",
+        "username": "a21",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(21).jpg",
+        "first_name": "Christophe",
+        "last_name": "Schmidt",
+        "qualified_members": [
+          {
+            "uuid": "1022",
+            "username": "a22",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(22).jpg",
+            "first_name": "Sadye",
+            "last_name": "Kling"
+          },
+          {
+            "uuid": "1023",
+            "username": "a23",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(23).jpg",
+            "first_name": "Maia",
+            "last_name": "Kub"
+          },
+          {
+            "uuid": "1024",
+            "username": "a24",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(24).jpg",
+            "first_name": "Jalon",
+            "last_name": "Monahan"
+          },
+          {
+            "uuid": "1025",
+            "username": "a25",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(25).jpg",
+            "first_name": "Rigoberto",
+            "last_name": "Durgan"
+          }
+        ]
+      },
+      {
+        "uuid": "1031",
+        "username": "a31",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(31).jpg",
+        "first_name": "Birdie",
+        "last_name": "Gleason",
+        "qualified_members": [
+          {
+            "uuid": "1032",
+            "username": "a32",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(32).jpg",
+            "first_name": "Crystal",
+            "last_name": "Schmidt"
+          },
+          {
+            "uuid": "1033",
+            "username": "a33",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(33).jpg",
+            "first_name": "Noemi",
+            "last_name": "Ratke"
+          },
+          {
+            "uuid": "1034",
+            "username": "a34",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(34).jpg",
+            "first_name": "Kay",
+            "last_name": "Cummerata"
+          },
+          {
+            "uuid": "1035",
+            "username": "a35",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(35).jpg",
+            "first_name": "Lola",
+            "last_name": "Hane"
+          }
+        ]
+      },
+      {
+        "uuid": "1041",
+        "username": "a41",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(41).jpg",
+        "first_name": "Birdie",
+        "last_name": "Gleason",
+        "qualified_members": [
+          {
+            "uuid": "1042",
+            "username": "a42",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(42).jpg",
+            "first_name": "Crystal",
+            "last_name": "Schmidt"
+          },
+          {
+            "uuid": "1043",
+            "username": "a43",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(43).jpg",
+            "first_name": "Noemi",
+            "last_name": "Ratke"
+          },
+          {
+            "uuid": "1044",
+            "username": "a44",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(44).jpg",
+            "first_name": "Kay",
+            "last_name": "Cummerata"
+          },
+          {
+            "uuid": "1045",
+            "username": "a45",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(45).jpg",
+            "first_name": "Lola",
+            "last_name": "Hane"
+          }
+        ]
+      },
+      {
+        "uuid": "1051",
+        "username": "a51",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(51).jpg",
+        "first_name": "Rashawn",
+        "last_name": "Mante",
+        "qualified_members": [
+          {
+            "uuid": "1052",
+            "username": "a52",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(52).jpg",
+            "first_name": "Ward",
+            "last_name": "Braun"
+          },
+          {
+            "uuid": "1053",
+            "username": "a53",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(53).jpg",
+            "first_name": "Glen",
+            "last_name": "Marks"
+          },
+          {
+            "uuid": "1054",
+            "username": "a54",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(54).jpg",
+            "first_name": "Sherman",
+            "last_name": "Dibbert"
+          },
+          {
+            "uuid": "1055",
+            "username": "a55",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(55).jpg",
+            "first_name": "Lyric",
+            "last_name": "Brown"
+          }
+        ]
+      }
+    ]
+  },
+  "qualified_3x3": 
+  {
+    "is_bonusable": false,
+    "bonus_amount": 300,
+    "qualified_members": [
+      {
+        "uuid": "1001",
+        "username": "a1",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(1).jpg",
+        "first_name": "Krystina",
+        "last_name": "Pfeffer",
+        "qualified_members": [
+          {
+            "uuid": "1002",
+            "username": "a2",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(2).jpg",
+            "first_name": "Jakayla",
+            "last_name": "Dickens"
+          },
+          {
+            "uuid": "1003",
+            "username": "a3",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(3).jpg",
+            "first_name": "Aletha",
+            "last_name": "Cremin"
+          },
+          {
+            "uuid": "1004",
+            "username": "a4",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(4).jpg",
+            "first_name": "Lisette",
+            "last_name": "Padberg"
+          },
+          {
+            "uuid": "1005",
+            "username": "a5",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(5).jpg",
+            "first_name": "Name",
+            "last_name": "Harber"
+          }
+        ]
+      },
+      {
+        "uuid": "1011",
+        "username": "a11",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(11).jpg",
+        "first_name": "Ashleigh",
+        "last_name": "Gottlieb",
+        "qualified_members": [
+          {
+            "uuid": "1012",
+            "username": "a12",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(12).jpg",
+            "first_name": "Lorenzo",
+            "last_name": "Rowe"
+          },
+          {
+            "uuid": "1013",
+            "username": "a13",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(13).jpg",
+            "first_name": "Arvid",
+            "last_name": "Hagenes"
+          },
+          {
+            "uuid": "1014",
+            "username": "a14",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(14).jpg",
+            "first_name": "Percival",
+            "last_name": "Simonis"
+          },
+          {
+            "uuid": "1015",
+            "username": "a15",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(15).jpg",
+            "first_name": "Dalton",
+            "last_name": "Tillman"
+          }
+        ]
+      },
+      {
+        "uuid": "1021",
+        "username": "a21",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(21).jpg",
+        "first_name": "Christophe",
+        "last_name": "Schmidt",
+        "qualified_members": [
+          {
+            "uuid": "1022",
+            "username": "a22",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(22).jpg",
+            "first_name": "Sadye",
+            "last_name": "Kling"
+          },
+          {
+            "uuid": "1023",
+            "username": "a23",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(23).jpg",
+            "first_name": "Maia",
+            "last_name": "Kub"
+          },
+          {
+            "uuid": "1024",
+            "username": "a24",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(24).jpg",
+            "first_name": "Jalon",
+            "last_name": "Monahan"
+          },
+          {
+            "uuid": "1025",
+            "username": "a25",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(25).jpg",
+            "first_name": "Rigoberto",
+            "last_name": "Durgan"
+          }
+        ]
+      },
+      {
+        "uuid": "1031",
+        "username": "a31",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(31).jpg",
+        "first_name": "Birdie",
+        "last_name": "Gleason",
+        "qualified_members": [
+          {
+            "uuid": "1032",
+            "username": "a32",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(32).jpg",
+            "first_name": "Crystal",
+            "last_name": "Schmidt"
+          },
+          {
+            "uuid": "1033",
+            "username": "a33",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(33).jpg",
+            "first_name": "Noemi",
+            "last_name": "Ratke"
+          },
+          {
+            "uuid": "1034",
+            "username": "a34",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(34).jpg",
+            "first_name": "Kay",
+            "last_name": "Cummerata"
+          },
+          {
+            "uuid": "1035",
+            "username": "a35",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(35).jpg",
+            "first_name": "Lola",
+            "last_name": "Hane"
+          }
+        ]
+      },
+      {
+        "uuid": "1041",
+        "username": "a41",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(41).jpg",
+        "first_name": "Birdie",
+        "last_name": "Gleason",
+        "qualified_members": [
+          {
+            "uuid": "1042",
+            "username": "a42",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(42).jpg",
+            "first_name": "Crystal",
+            "last_name": "Schmidt"
+          },
+          {
+            "uuid": "1043",
+            "username": "a43",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(43).jpg",
+            "first_name": "Noemi",
+            "last_name": "Ratke"
+          },
+          {
+            "uuid": "1044",
+            "username": "a44",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(44).jpg",
+            "first_name": "Kay",
+            "last_name": "Cummerata"
+          },
+          {
+            "uuid": "1045",
+            "username": "a45",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(45).jpg",
+            "first_name": "Lola",
+            "last_name": "Hane"
+          }
+        ]
+      }
+    ]
+  },
+  "qualified_4x4": 
+  {
+    "is_bonusable": true,
+    "bonus_amount": 500,
+    "qualified_members": [
+      {
+        "uuid": "1001",
+        "username": "a1",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(1).jpg",
+        "first_name": "Krystina",
+        "last_name": "Pfeffer",
+        "qualified_members": [
+          {
+            "uuid": "1002",
+            "username": "a2",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(2).jpg",
+            "first_name": "Jakayla",
+            "last_name": "Dickens"
+          },
+          {
+            "uuid": "1003",
+            "username": "a3",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(3).jpg",
+            "first_name": "Aletha",
+            "last_name": "Cremin"
+          },
+          {
+            "uuid": "1004",
+            "username": "a4",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(4).jpg",
+            "first_name": "Lisette",
+            "last_name": "Padberg"
+          },
+          {
+            "uuid": "1005",
+            "username": "a5",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(5).jpg",
+            "first_name": "Name",
+            "last_name": "Harber"
+          }
+        ]
+      },
+      {
+        "uuid": "1011",
+        "username": "a11",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(11).jpg",
+        "first_name": "Ashleigh",
+        "last_name": "Gottlieb",
+        "qualified_members": [
+          {
+            "uuid": "1012",
+            "username": "a12",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(12).jpg",
+            "first_name": "Lorenzo",
+            "last_name": "Rowe"
+          },
+          {
+            "uuid": "1013",
+            "username": "a13",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(13).jpg",
+            "first_name": "Arvid",
+            "last_name": "Hagenes"
+          },
+          {
+            "uuid": "1014",
+            "username": "a14",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(14).jpg",
+            "first_name": "Percival",
+            "last_name": "Simonis"
+          },
+          {
+            "uuid": "1015",
+            "username": "a15",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(15).jpg",
+            "first_name": "Dalton",
+            "last_name": "Tillman"
+          }
+        ]
+      },
+      {
+        "uuid": "1021",
+        "username": "a21",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(21).jpg",
+        "first_name": "Christophe",
+        "last_name": "Schmidt",
+        "qualified_members": [
+          {
+            "uuid": "1022",
+            "username": "a22",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(22).jpg",
+            "first_name": "Sadye",
+            "last_name": "Kling"
+          },
+          {
+            "uuid": "1023",
+            "username": "a23",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(23).jpg",
+            "first_name": "Maia",
+            "last_name": "Kub"
+          },
+          {
+            "uuid": "1024",
+            "username": "a24",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(24).jpg",
+            "first_name": "Jalon",
+            "last_name": "Monahan"
+          },
+          {
+            "uuid": "1025",
+            "username": "a25",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(25).jpg",
+            "first_name": "Rigoberto",
+            "last_name": "Durgan"
+          }
+        ]
+      },
+      {
+        "uuid": "1031",
+        "username": "a31",
+        "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(31).jpg",
+        "first_name": "Birdie",
+        "last_name": "Gleason",
+        "qualified_members": [
+          {
+            "uuid": "1032",
+            "username": "a32",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(32).jpg",
+            "first_name": "Crystal",
+            "last_name": "Schmidt"
+          },
+          {
+            "uuid": "1033",
+            "username": "a33",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(33).jpg",
+            "first_name": "Noemi",
+            "last_name": "Ratke"
+          },
+          {
+            "uuid": "1034",
+            "username": "a34",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(34).jpg",
+            "first_name": "Kay",
+            "last_name": "Cummerata"
+          },
+          {
+            "uuid": "1035",
+            "username": "a35",
+            "image": "https://mlmprotec-demo-assets.s3-us-west-2.amazonaws.com/admins/user+(35).jpg",
+            "first_name": "Lola",
+            "last_name": "Hane"
+          }
+        ]
+      }
+    ]
+  },
+  "qualified_5x5": 
+  {
+    "is_bonusable": false,
+    "bonus_amount": 700,
+    "qualified_members": []
+  }
+}

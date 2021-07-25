@@ -1,0 +1,24 @@
+{
+  "shiiping_address": {
+    "name": "John Doe",
+    "address": "4054 Mayer Prairie North Linda, WA 43531",
+    "address2": "670 Cassin Port",
+    "city": "Hermanbury",
+    "state": "Illinois",
+    "postal_code": "01323-1158",
+    "country": ""
+  },
+  "credit_card": {
+    "number": "5410********2851",
+    "exp_date": "03/24",
+    "security": "***",
+    "name": "John Doe",
+    "address": "4054 Mayer Prairie North Linda, WA 43531",
+    "city": "Hermanbury",
+    "state": "Illinois",
+    "country": ""
+  },
+  "wallet": {
+    "available_balance": 0
+  }
+}

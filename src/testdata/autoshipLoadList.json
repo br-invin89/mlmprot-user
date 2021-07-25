@@ -1,0 +1,105 @@
+{
+  "items": [
+    {
+      "id": 135271,
+      "imagePath": "https://uploaded-contents.s3-us-west-2.amazonaws.com/user-office/products/cbimage(21).jpg",
+      "title": "Broad Spectrum THC",
+      "createdDate": "Janurary 15, 2020",
+      "volume": 40,
+      "price": 69.99,
+      "quantity": 1,
+      "nextBillDate": "Feburary 16, 2020",
+      "frequency": "Every month"
+    },
+    {
+      "id": 135272,
+      "imagePath": "https://uploaded-contents.s3-us-west-2.amazonaws.com/user-office/products/cbimage(22).jpg",
+      "title": "22Broad Spectrum THC",
+      "createdDate": "Janurary 15, 2020",
+      "volume": 40,
+      "price": 69.99,
+      "quantity": 1,
+      "nextBillDate": "Feburary 16, 2020",
+      "frequency": "Every month"
+    },
+    {
+      "id": 135273,
+      "imagePath": "https://uploaded-contents.s3-us-west-2.amazonaws.com/user-office/products/cbimage(23).jpg",
+      "title": "33Broad Spectrum THC",
+      "createdDate": "Janurary 15, 2020",
+      "volume": 40,
+      "price": 69.99,
+      "quantity": 1,
+      "nextBillDate": "Feburary 16, 2020",
+      "frequency": "Every month"
+    },
+    {
+      "id": 135274,
+      "imagePath": "https://uploaded-contents.s3-us-west-2.amazonaws.com/user-office/products/cbimage(23).jpg",
+      "title": "44Broad Spectrum THC",
+      "createdDate": "Janurary 15, 2020",
+      "volume": 40,
+      "price": 69.99,
+      "quantity": 1,
+      "nextBillDate": "Feburary 16, 2020",
+      "frequency": "Every month"
+    }
+  ],
+  "allProducts": [
+    {
+      "id": 135269,
+      "title": "Broad Spectrum THC- Free CBD Tincture:Lemon Lime, 500mg"
+    },
+    {
+      "id": 135271,
+      "title": "Broad Spectrum THC- Free CBD Tincture:Lemon Lime, 1500mg"
+    },
+    {
+      "id": 135273,
+      "title": "Broad Spectrum THC- Free CBD Tincture:Lemon Lime, 2500mg"
+    }
+  ],
+  "allConcentrations": [
+    {
+      "id": 121,
+      "label": "500mg"
+    },
+    {
+      "id": 122,
+      "label": "1500mg"
+    },
+    {
+      "id": 123,
+      "label": "2500mg"
+    }
+  ],
+  "allFlavors": [
+    {
+      "id": 121,
+      "label": "Lemon Lime"
+    },
+    {
+      "id": 122,
+      "label": "Melon"
+    }
+  ],
+  "allQuantities": [
+    {
+      "count": 1
+    },
+    {
+      "count": 5
+    },
+    {
+      "count": 10
+    }
+  ],
+  "allFrequencies": [
+    {
+      "label": "Every Month"
+    },
+    {
+      "label": "Every Week"
+    }
+  ]
+}

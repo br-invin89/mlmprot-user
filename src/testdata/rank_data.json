@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Personal Volume",
+    "total": 250,
+    "obtained": 250
+  },
+  {
+    "label": "Group Volume",
+    "total": 500,
+    "obtained": 500
+  },
+  {
+    "label": "Direct Members",
+    "total": 5,
+    "obtained": 5
+  },
+  {
+    "label": "Left Direct Members",
+    "total": 3,
+    "obtained": 3
+  },
+  {
+    "label": "Right Direct Members",
+    "total": 10,
+    "obtained": 10
+  }
+]

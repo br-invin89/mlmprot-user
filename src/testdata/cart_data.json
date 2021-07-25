@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "name": "Product C",
+      "price": 69.99,
+      "bv": 144,
+      "image": "",
+      "qty": 2
+    }
+  ],
+  "summary": {
+    "qty": 2,
+    "business_volume": 144,
+    "member_price": 69.99,
+    "retail_price": 244.89,
+    "shipping": 69.99,
+    "tax": 69.99,
+    "total": 69.99
+  }
+}

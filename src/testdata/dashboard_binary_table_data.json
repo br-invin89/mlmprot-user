@@ -1,0 +1,41 @@
+{
+	"data": [
+		{
+				"type": "New Pre Enrollees",
+				"left": 10058,
+				"right": 19877
+		},
+		{
+			"type": "Personally Enrolled",
+			"left": 10058,
+			"right": 19877
+	},
+	{
+		"type": "Total Autoships",
+		"left": 10058,
+		"right": 19877
+},
+{
+	"type": "Jump Start BV",
+	"left": 10058,
+	"right": 19877
+},
+{
+	"type": "Binary BV",
+	"left": 10058,
+	"right": 19877
+},
+{
+	"type": "Jump Start BV",
+	"left": 10058,
+	"right": 19877
+},
+{
+	"type": "Binary BV",
+	"left": 10058,
+	"right": 19877
+}
+
+		
+	]
+}

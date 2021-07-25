@@ -1,0 +1,29 @@
+{
+	"data": [
+		{
+				"icon": "people",
+				"total": 222147,
+				"title": "customers",
+				"color": "#F9F2FF"
+		},
+		 {
+				"icon": "flag",
+				"total": 122147,
+				"title": 	"affiliates",
+				"color": "#FFEFF6"
+			},
+			{
+				"icon": "bag",
+				"total": 202147,
+				"title": "autoships",
+				"color": "#EEF3FF"
+			},
+			 {
+				"icon": "briefcase",
+				"total": 222147,
+				"title": "commissions",
+				"color": "#E6FFF9"
+			}
+		
+	]
+}

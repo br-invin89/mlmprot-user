@@ -1,0 +1,85 @@
+{
+  "featured": [
+    {
+      "name": "Product C",
+      "price": 120
+    },
+    {
+      "name": "Product C",
+      "price": 120
+    },
+    {
+      "name": "Product C",
+      "price": 120
+    },
+    {
+      "name": "Product C",
+      "price": 120
+    }
+
+  ],
+  "new_arrival": [
+    {
+      "name": "Product C",
+      "price": 120
+    },
+    {
+      "name": "Product C",
+      "price": 120
+    },
+    {
+      "name": "Product C",
+      "price": 120
+    },
+    {
+      "name": "Product C",
+      "price": 120
+    }
+
+  ],
+  "best_sellers": [
+    {
+      "name": "Product C",
+      "price": 120
+    },
+    {
+      "name": "Product C",
+      "price": 120
+    },
+    {
+      "name": "Product C",
+      "price": 120
+    },
+    {
+      "name": "Product C",
+      "price": 120
+    }
+
+  ],
+  "products": [
+    {
+      "name": "Product C",
+      "price": 120
+    },
+    {
+      "name": "Product C",
+      "price": 120
+    },
+    {
+      "name": "Product C",
+      "price": 120
+    },
+    {
+      "name": "Product C",
+      "price": 120
+    }
+
+  ],
+  "product_detail": {
+    "name": "Product C",
+    "price": 120,
+    "bv": 114,
+    "description": "Company A offers its members a new fast, secure and cost effective payment method. Now you can get paid directly to a Company APrepaid MasterCard®, which can be used online or in stores, or to withdraw cash in your local currency at an ATM! No bank account or credit checks are required.",
+    "qty": 1
+  }
+}
